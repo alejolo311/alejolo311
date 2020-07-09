@@ -7,7 +7,5 @@ thanks for reading my readme 😊
 
 bye👋
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
 <!--
 **alejolo311/alejolo311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
